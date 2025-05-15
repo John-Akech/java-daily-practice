@@ -6,5 +6,8 @@ class Exercise_1 {
         // The System.out.println() method is used to print text to the console.
         // The text inside the quotes is the message that will be printed.
         System.out.println("How much wood would a woodchuck chuck if a woodchuck could chuck wood?");
+        System.err.println("If a woodchuck could chuck wood, how much wood would a woodchuck chuck?");
+        System.out.println("A woodchuck would chuck as much wood as a woodchuck would if a woodchuck could chuck wood.");
+        System.out.println("He would chuck as much wood as a woodchuck would if a woodchuck could chuck wood.");
     }
 }
